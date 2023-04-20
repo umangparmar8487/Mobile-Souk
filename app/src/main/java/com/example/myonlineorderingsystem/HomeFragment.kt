@@ -37,6 +37,10 @@ class HomeFragment : Fragment() {
 
         return binding.root
     }
+
+
+
+
     override fun onResume() {
         binding.overlay.visibility=View.VISIBLE
         binding.HomeRecycleview.visibility=View.GONE
