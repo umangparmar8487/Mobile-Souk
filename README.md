@@ -27,7 +27,8 @@ Place the order and make the payment online.
 View the order history and track the delivery status.
 Update your profile information.
 
-#Not using firebase using API so don't worry!
+#API
+The application uses an API to retrieve data such as items, orders, and user information. Retrofit is used to make network requests to the API.
 
 #Credits:
 This project is developed by umang parmar as a part of cybercom creation e-commerce project.
