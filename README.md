@@ -15,7 +15,7 @@ Profile management
 
 #Installation:
 To install the project, follow these steps:
-Clone the repository to your local machine using the command git clone https://github.com/umangparmar8487/onlineorderingsystem.
+Clone the repository to your local machine using the command git clone https://github.com/umangparmar8487/Mobile-Souk.
 Open the project in Android Studio.
 Build and run the project on an Android device or emulator.
 
