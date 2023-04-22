@@ -1,5 +1,5 @@
 
-#Online Ordering System - E-commerce Project
+#Mobile Souk - E-commerce Project
 Overview:
 This is an Android Kotlin based e-commerce project that allows users to browse through different products, add them to the cart, and place an order online. The application uses API as the backend database to store product information and user details.
 
