@@ -23,7 +23,7 @@
         <com.google.android.material.appbar.MaterialToolbar
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            app:navigationIcon="@drawable/baseline_order_24"
+            app:navigationIcon="@drawable/baseline_history_24"
             app:navigationIconTint="@color/white"
             app:title="Orders"
             app:titleTextColor="@color/white" />
